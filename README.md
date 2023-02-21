@@ -1,2 +1,2 @@
-# lanedet
-a framework for lane detection
+# 基于分割的车道线检测项目
+论文请参考对应的pdf文件
